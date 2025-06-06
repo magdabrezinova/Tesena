@@ -2,7 +2,7 @@
 
 ## Spuštění testu na desktopu
 
-nainstalujte node modules pomocí příkazu
+Nainstalujte node modules pomocí příkazu:
 
 ```powershell
 > npm install
@@ -18,7 +18,7 @@ Pro prohlížeč chromium spustím test následovně:
 
 ### Spuštění testu vícekrát
 
-Pro opakované spuštění testu slouží skript sur-contact.sh. Spustíte ho v terminálu Git Bash (mezi Powershell a Git Bash terminálem se dá přepínat v liště terminálu vpravo) následovně:
+Pro opakované spuštění testu slouží skript sur-contact.sh. Spustíte ho v terminálu Git Bash následovně:
 
 ```bash
 $ bash run-contact.sh
